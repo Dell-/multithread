@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aza/thread": "~1.0"
+    }
+}
